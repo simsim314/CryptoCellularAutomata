@@ -1,0 +1,2 @@
+emcc lifeapi.cpp -s WASM=1 -o lifeapi.html -std=c++11
+C:\cheerp\bin\clang++.exe -target cheerp lifeapi.cpp -o lifeapi.js -O3 -std=c++11
